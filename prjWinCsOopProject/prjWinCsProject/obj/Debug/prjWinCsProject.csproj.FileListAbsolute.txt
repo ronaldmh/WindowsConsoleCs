@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\bin\Debug\prjWinCsProject.exe.config
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\bin\Debug\prjWinCsProject.exe
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\bin\Debug\prjWinCsProject.pdb
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.Properties.Resources.resources
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.exe
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.pdb
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.frmMain.resources
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.frmAboutUs.resources
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.frmScientificCalculator.resources
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.frmUserManual.resources
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.frmStandardCalculator.resources
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsProject\obj\Debug\prjWinCsProject.frmChange.resources

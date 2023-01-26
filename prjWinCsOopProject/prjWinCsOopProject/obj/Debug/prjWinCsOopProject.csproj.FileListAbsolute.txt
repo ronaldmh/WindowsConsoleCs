@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsOopProject\bin\Debug\prjWinCsOopProject.exe.config
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsOopProject\bin\Debug\prjWinCsOopProject.exe
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsOopProject\bin\Debug\prjWinCsOopProject.pdb
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsOopProject\obj\Debug\prjWinCsOopProject.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsOopProject\obj\Debug\prjWinCsOopProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsOopProject\obj\Debug\prjWinCsOopProject.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsOopProject\obj\Debug\prjWinCsOopProject.exe
+C:\Users\usuario\source\repos\Lasalle\Fall\420-CT2-AS\prjWinCsOopProject\prjWinCsOopProject\obj\Debug\prjWinCsOopProject.pdb

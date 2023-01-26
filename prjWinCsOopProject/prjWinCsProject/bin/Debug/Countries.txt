@@ -1,0 +1,12 @@
+﻿France
+Euro
+0.96
+Canada
+Canadian Dollar
+1.34
+England
+Pound sterling
+0.83
+Japan
+Yen
+139.12
